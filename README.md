@@ -55,8 +55,8 @@ This repo contains road maps and study material for learning AI
        - TensorFlow or PyTorch (choose one to start)
        - Keras (high-level wrapper for TensorFlow)
    ### Resource
-       - [Coursera Deep Learning Course](https://www.coursera.org/specializations/deep-learning)
-       - [Practical Deep Learning](https://course.fast.ai/)
+   - [Coursera Deep Learning Course](https://www.coursera.org/specializations/deep-learning)
+   - [Practical Deep Learning](https://course.fast.ai/)
 
 6. Computer Vision: OpenCV, CNNs
 7. Natural Language Processing: HuggingFace Transformers
