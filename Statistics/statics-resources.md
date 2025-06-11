@@ -11,8 +11,8 @@
 
 ## Resources:
 
-   [Khan Academy: Descriptive Statistics](https://www.khanacademy.org/math/statistics-probability)
-   Python: Use pandas.describe() or seaborn to visualize
+   - [Khan Academy: Descriptive Statistics](https://www.khanacademy.org/math/statistics-probability)
+   - Python: Use pandas.describe() or seaborn to visualize
 
 ## 2. What to learn in probability theory
 
@@ -26,9 +26,9 @@
    AI systems must make decisions under uncertainty. Understanding probability is vital for Bayesian models, Naive Bayes, and probabilistic reasoning.
 
 ## Resources:
-   3Blue1Brown’s Visual Introduction to Probability (Link not availavle)
-   Book: Think Stats by Allen B. Downey (freely available)
-   [Introduction to probabiliy](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+   - 3Blue1Brown’s Visual Introduction to Probability (Link not availavle)
+   - Book: Think Stats by Allen B. Downey (freely available)
+   - [Introduction to probabiliy](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
 
 ## 3. What to learn in probability distributions (for ML models)
@@ -44,8 +44,8 @@
 
 ## Resources:
 
-   StatQuest on YouTube (super beginner-friendly)
-   SciPy library for hands-on coding
+   - StatQuest on YouTube (super beginner-friendly)
+   - SciPy library for hands-on coding
 
  ## 4. What to learn in inferential statistics
 
@@ -60,8 +60,8 @@
 
 ## Resources:
 
-   Khan Academy: [Inferential Stats](https://www.khanacademy.org/math/statistics-probability/inference)
-   Python: statsmodels, scipy.stats
+   - Khan Academy: [Inferential Stats](https://www.khanacademy.org/math/statistics-probability/inference)
+   - Python: statsmodels, scipy.stats
 
 ## 5. What to learn in regression and correlation
 
@@ -76,8 +76,8 @@
 
 ## Resources:
 
-   [Coursera: Andrew Ng’s ML course](https://www.coursera.org/learn/machine-learning)
-   Book: An Introduction to Statistical Learning (free online)
+   - [Coursera: Andrew Ng’s ML course](https://www.coursera.org/learn/machine-learning)
+   - Book: An Introduction to Statistical Learning (free online)
 
  ## 6. What to learn in bayesian thinking
 
@@ -92,8 +92,8 @@
 
 ## Resources:
 
-   Book: Bayesian Methods for Hackers (Jupyter notebook-based)
-   YouTube: StatQuest’s [Bayes' Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+   - Book: Bayesian Methods for Hackers (Jupyter notebook-based)
+   - YouTube: StatQuest’s [Bayes' Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 
 ## 7. What to learn in statistical thinking in AI/ML
 
@@ -108,12 +108,12 @@
 
 ## Resources:
 
-   Hands-On ML with Scikit-Learn, Keras, and TensorFlow (by Aurélien Géron)
-   sklearn.model_selection for practical coding
+   - Hands-On ML with Scikit-Learn, Keras, and TensorFlow (by Aurélien Géron)
+   - sklearn.model_selection for practical coding
 
 
 ## Tools to Practice
 
-   Python libraries: pandas, numpy, scipy, matplotlib, seaborn, statsmodels, sklearn
-   Kaggle: Practice with real-world datasets
+   - Python libraries: pandas, numpy, scipy, matplotlib, seaborn, statsmodels, sklearn
+   - Kaggle: Practice with real-world datasets
 
